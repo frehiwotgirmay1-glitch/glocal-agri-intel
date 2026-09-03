@@ -4,7 +4,7 @@ import tailwindcss from "@tailwindcss/vite";
 import path from "path";
 import checker from "vite-plugin-checker";
 // @ts-expect-error - No type declarations for custom plugin
-import clearLogPlugin from "./dala-internal-vite-clear-log-plugin.js";
+//import clearLogPlugin from "./dala-internal-vite-clear-log-plugin.js";
 
 import dns from "node:dns";
 
